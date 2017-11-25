@@ -8,5 +8,6 @@ public class ViserionApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ViserionApplication.class, args);
+                System.out.println("com.dragons.viserion.ViserionApplication.main()");
 	}
 }
